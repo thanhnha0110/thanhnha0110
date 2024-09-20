@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [n.thanhnha1997@gmail.com](mailto:n.thanhnha1997@gmail.com)
-* 🚀  I'm currently working on [Apps Cyclone](http://https://appscyclone.com/)
+* 🚀  I'm currently working on [Apps Cyclone](https://appscyclone.com/)
 * 🧠  I'm learning 2 new languages ​​NodeJs and ReactJs
 * ⚡  I like to draw, but that's a secret.
 
